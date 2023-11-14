@@ -10,16 +10,16 @@ const Navbar = () => {
         <motion.span initial={{opacity:0, scale:0.5}} animate={{opacity:1, scale:1.5}} transition={{duration:1}} >InfinityOpen</motion.span>
         <div className="social">
           <a href="">
-            <img src="/public/facebook.png" alt="" />
+            <img src="/facebook.png" alt="" />
           </a>
           <a href="">
-            <img src="/public/instagram.png" alt="" />
+            <img src="/instagram.png" alt="" />
           </a>
           <a href="">
-            <img src="/public/dribbble.png" alt="" />
+            <img src="/dribbble.png" alt="" />
           </a>
           <a href="">
-            <img src="/public/youtube.png" alt="" />
+            <img src="/youtube.png" alt="" />
           </a>
         </div>
       </div>
