@@ -1,6 +1,6 @@
 import Links from './Links/Links'
 import './Sidebar.scss'
-import ToggleButtion from './toggleButtion/toggleButtion'
+
 
 
 const Sidebar = () => {
@@ -9,7 +9,7 @@ const Sidebar = () => {
         <div className="bg">
             <Links/>
         </div>
-        <ToggleButtion/>
+        
     </div>
   )
 }
