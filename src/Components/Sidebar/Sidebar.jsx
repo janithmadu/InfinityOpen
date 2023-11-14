@@ -9,7 +9,7 @@ const Sidebar = () => {
         <div className="bg">
             <Links/>
         </div>
-        <ToggleButtion/>
+        
     </div>
   )
 }
